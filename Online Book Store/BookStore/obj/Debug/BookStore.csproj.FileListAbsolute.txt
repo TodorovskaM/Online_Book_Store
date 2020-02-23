@@ -1,0 +1,14 @@
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\BookStore.dll
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\Dapper.dll
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\FluentValidation.dll
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\log4net.dll
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\Dapper.xml
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\FluentValidation.xml
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\log4net.xml
+C:\Users\todor\source\repos\BookStore\BookStore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\todor\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\todor\source\repos\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\todor\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb
